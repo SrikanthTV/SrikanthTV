@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SrikanthTV
-I’m interested in Aerospace and Human computer interaction
- I’m currently working as a Researcher at Gerogia Institute of Technology
+I’m Research Associate at Aerspace Design Labolatory ASDL at GT
+Researcher at Contextual Computing group on  Human computer interaction
+Part-time developer VR/AR and Mixed Reality
 
 
 
